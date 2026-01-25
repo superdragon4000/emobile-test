@@ -39,7 +39,4 @@ $ npm run schema:drop
 
 ## API Docs
 
-```bash
-# To open API docs:
-$ localhost:port/docs
-```
+API docs are available at `http://localhost:<port>/docs`
