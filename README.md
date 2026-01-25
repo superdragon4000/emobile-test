@@ -36,3 +36,10 @@ $ npm run migration:run
 # To drop schemas use:
 $ npm run schema:drop
 ```
+
+## API Docs
+
+```bash
+# To open API docs:
+$ localhost:port/docs
+```
